@@ -1,0 +1,12 @@
+## https://note.nkmk.me/python-pip-install-requirements/
+
+notebook
+awesome-slugify
+docopt
+dynaconf
+jinja2
+##pathlib
+pendulum
+pickledb
+tinydb
+xmltodict
